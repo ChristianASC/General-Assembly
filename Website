@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+ <head>
+  <title>Rivka needs to Wake up</title>
+  <style>
+    body {
+      text-align: left;
+      background-size: cover;
+      background-position: center;
+      background-color:yellow;
+      color: blue;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 55px;
+      font-family: helvetica;
+      text-align: left;
+      border: 100;
+    }
+    input {
+      border: 10;
+      border: color:blue;
+      padding: 10px;
+      font-size: 18px;
+      text-align:left;
+    }
+    input[type="submit"] {
+      background: blue;
+      color: white;
+      
+    }
+    
+    img {width: 457px;  
+     height: 500;  
+    }
+     input[type="Text Box"] {
+       text-align: left;
+    }
+  </style>
+</head>
+ <p>Panels Of Dream Constellation</p>
+  <img src="https://i.imgur.com/oLhId7t.jpg">
+  <img src="https://i.imgur.com/BMjfjnv.jpg">
+  <body>
+<input type="Text Box" placeholder="Thoughts on Image">
+  <input type="submit">
+</body>
